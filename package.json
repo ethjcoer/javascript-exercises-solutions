@@ -2,5 +2,11 @@
   "devDependencies": {
     "@awmottaz/prettier-plugin-void-html": "^2.0.0",
     "prettier": "3.7.4"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
